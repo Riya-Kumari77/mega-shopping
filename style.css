@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.hero {
+    background: url('toys.jpg') no-repeat center center/cover;
+    color: rgb(205, 24, 123);
+    text-shadow: 2px 2px 4px rgba(168, 6, 146, 0.7);
+}
+
+.features .col-md-4 {
+    padding: 20px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background: #222;
+    color: rgb(113, 144, 33);
+}
+section {
+    background:rgb(225, 109, 184);
+}
